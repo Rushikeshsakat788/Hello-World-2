@@ -5,3 +5,4 @@ print("sub No:",a-b)
 print("Multi of No:",a*b)
 print("Div of No:",a/b)
 print("Mod of No:",a%b)
+python is good langvage
